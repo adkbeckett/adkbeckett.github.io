@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Here's some test content for the homepage.
