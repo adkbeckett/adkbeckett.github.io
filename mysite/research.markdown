@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching 
-permalink: /teaching/
+title: Research
+permalink: /research/
 ---
 
 I worked as a tutor in the School of Mathematics at the University of Edinburgh early 2020 until early 2024 while I was a PhD student there. 
