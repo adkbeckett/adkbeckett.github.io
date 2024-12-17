@@ -4,13 +4,24 @@ title: Research
 permalink: /research/
 ---
 
-I worked as a tutor in the School of Mathematics at the University of Edinburgh early 2020 until early 2024 while I was a PhD student there. 
-Before that, I held a similar role in the School of Mathematics and Statistics at the University of Glasgow during the last year of my undergraduate in 2017-18 
-and was also a "mentor" in an intensive international summer school run by the School of Physics and Astronomy in 2016 and again in 2018. 
-I also volunteered as a helped in the [MacLaurin Society's](https://macsoc.weebly.com/) maths help room (2016-17) and have done various other informal maths tutoring work and volunteering.
+[\[arXiv:2105.05775\]](http://arxiv.org/abs/2105.05775)
+    **Killing superalgebras for lorentzian five-manifolds,** [*JHEP*, **2021** (2021) 209](https://doi.org/10.1007/JHEP07(2021)209),
+    with José Figueroa-O'Farrill.
 
-While at Edinburgh, I was part of the [Maxwell Institutue Graduate School's](https://www.maxwell.ac.uk/graduate-school/) teaching stream 
-and participated in the [Edinburgh Teaching Award (EdTA)](https://www.advance-he.ac.uk/fellowship/associate-fellowship) professional development scheme 
-through which I earned [AFHEA](https://www.advance-he.ac.uk/fellowship/associate-fellowship) status.
+[\[arXiv:2207.03231\]](http://arxiv.org/abs/2207.03231)
+    **Homogeneous Symplectic Spaces and Central Extensions,** [*Phys. Sci. Forum*, **5** (2022) 24](https://doi.org/10.3390/psf2022005024).
 
-Below is a list of courses which I've formally taught on.
+
+[\[arXiv:2410.01765\]](http://arxiv.org/abs/2410.01765)
+    **Killing superalgebras in 2 dimensions,** submitted to *SIGMA*.
+
+[\[arXiv:2409.11306\]](http://arxiv.org/abs/2409.11306)
+    **Killing (super)algebras associated to connections on spinors,** submitted to *SIGMA*.
+
+[\[arXiv:2203.07405\]](http://arxiv.org/abs/2203.07405)
+    **Symplectic Actions and Central Extensions,**
+    with José Figueroa-O'Farrill.
+
+[\[arXiv:2204.01656\]](http://arxiv.org/abs/2204.01656)
+    **An English translation of A. Wiman's "On the algebraic curves of genus p=4, 5 and 6, which possess unambiguous transformations into themselves,"**
+    with Linden Disney-Hogg and Isabella Deutsch.
