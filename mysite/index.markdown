@@ -5,7 +5,9 @@
 layout: home
 ---
 
-I'm a mathematical physics researcher interested in many areas of pure mathematics and physics but with a focus on geometry and algebra and their applications to high-energy and gravitational physics. 
+<img src="./images/profile-pic-cropped.jpg" alt="Profile picture." width="30%" align="right">
+
+I'm a mathematical physics researcher interested in many areas of pure mathematics and physics but with a focus on geometry and algebra and their applications to high-energy and gravitational physics.
 I obtained my PhD at the University of Edinburgh in 2024, writing my thesis on applications of Lie superalgebra cohomology to supersymmetric geometries in supergravity and generalisations thereof, a topic I'm still currently working on. 
 For more on this topic and the people working on it, see [this webpage](https://www.maths.ed.ac.uk/~jmf/SRG/) of which I am a member. 
 I have also done some work in symplectic geometry applied to dynamical systems with many symmetrie which I intend to return to soon.

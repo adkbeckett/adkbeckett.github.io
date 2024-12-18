@@ -4,6 +4,15 @@ title: Research
 permalink: /research/
 ---
 
+## Links
+
+- [ORCID](https://orcid.org/0000-0002-7287-3156)
+- [arXiv](https://arxiv.org/a/beckett_a_1.html)
+- [Scholar](https://scholar.google.com/citations?user=_RQeBScAAAAJ)
+- [INSPIRE HEP](https://inspirehep.net/authors/2153527)
+
+## Publications
+
 [\[arXiv:2105.05775\]](http://arxiv.org/abs/2105.05775)
     **Killing superalgebras for lorentzian five-manifolds,** [*JHEP*, **2021** (2021) 209](https://doi.org/10.1007/JHEP07(2021)209),
     with José Figueroa-O'Farrill.
@@ -11,6 +20,7 @@ permalink: /research/
 [\[arXiv:2207.03231\]](http://arxiv.org/abs/2207.03231)
     **Homogeneous Symplectic Spaces and Central Extensions,** [*Phys. Sci. Forum*, **5** (2022) 24](https://doi.org/10.3390/psf2022005024).
 
+## Preprints
 
 [\[arXiv:2410.01765\]](http://arxiv.org/abs/2410.01765)
     **Killing superalgebras in 2 dimensions,** submitted to *SIGMA*.
