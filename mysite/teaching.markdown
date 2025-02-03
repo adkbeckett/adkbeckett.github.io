@@ -5,9 +5,9 @@ permalink: /teaching/
 ---
 
 I worked as a tutor in the School of Mathematics at the University of Edinburgh early 2020 until early 2024 while I was a PhD student there. 
-Before that, I held a similar role in the School of Mathematics and Statistics at the University of Glasgow during the last year of my undergraduate in 2017-18 
+Before that, I held a similar role in the School of Mathematics and Statistics at the University of Glasgow during the last year of my undergraduate in 2017--18 
 and was also a "mentor" in an intensive international summer school run by the School of Physics and Astronomy in 2016 and again in 2018. 
-I also volunteered as a helped in the [MacLaurin Society's](https://macsoc.weebly.com/) maths help room (2016-17) and have done various other informal maths tutoring work and volunteering.
+I also volunteered as a helped in the [MacLaurin Society's](https://macsoc.weebly.com/) maths help room (2016--17) and have done various other informal maths tutoring work and volunteering.
 
 While at Edinburgh, I was part of the [Maxwell Institutue Graduate School's](https://www.maxwell.ac.uk/graduate-school/) teaching stream 
 and participated in the [Edinburgh Teaching Award (EdTA)](https://www.advance-he.ac.uk/fellowship/associate-fellowship) professional development scheme 
@@ -31,7 +31,7 @@ through which I earned [AFHEA](https://www.advance-he.ac.uk/fellowship/associate
 - MATH08058 Calculus and its Applications (2019--2020)
 
 ### School of Mathematics and Statistics, University of Glasgow
-#### Tutor and marker (2017-2018)
+#### Tutor and marker (2017--2018)
 - MATHS2004 Mathematics 2B: Linear Algebra
 - MATHS2006 Mathematics 2D: Topics in Linear Algebra and Calculus
 - MATHS2008 Mathematics 2F: Foundations of Pure Mathematics

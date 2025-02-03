@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Links
+## Author pages on various databases
 
 - [ORCID](https://orcid.org/0000-0002-7287-3156)
 - [arXiv](https://arxiv.org/a/beckett_a_1.html)
@@ -35,3 +35,7 @@ permalink: /research/
 [\[arXiv:2204.01656\]](http://arxiv.org/abs/2204.01656)
     **An English translation of A. Wiman's "On the algebraic curves of genus p=4, 5 and 6, which possess unambiguous transformations into themselves,"**
     with Linden Disney-Hogg and Isabella Deutsch.
+    
+## PhD thesis
+
+**Spencer cohomology, supersymmetry and the structure of Killing superalgebras,** The University of Edinburgh, 2024, [on the Edinburgh Research Archive](http://dx.doi.org/10.7488/era/4477).
