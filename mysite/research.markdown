@@ -19,12 +19,12 @@ permalink: /research/
 [\[arXiv:2409.11306\]](http://arxiv.org/abs/2409.11306)
     **Killing (super)algebras associated to connections on spinors,** [*SIGMA* **21** (2025) 081](https://doi.org/10.3842/SIGMA.2025.081).
 
+[\[arXiv:2207.03231\]](http://arxiv.org/abs/2207.03231)
+    **Homogeneous Symplectic Spaces and Central Extensions,** [*Phys. Sci. Forum*, **5** (2022) 24](https://doi.org/10.3390/psf2022005024).
+
 [\[arXiv:2105.05775\]](http://arxiv.org/abs/2105.05775)
     **Killing superalgebras for lorentzian five-manifolds,** [*JHEP*, **2021** (2021) 209](https://doi.org/10.1007/JHEP07(2021)209),
     with José Figueroa-O'Farrill.
-
-[\[arXiv:2207.03231\]](http://arxiv.org/abs/2207.03231)
-    **Homogeneous Symplectic Spaces and Central Extensions,** [*Phys. Sci. Forum*, **5** (2022) 24](https://doi.org/10.3390/psf2022005024).
 
 ## Preprints
 
