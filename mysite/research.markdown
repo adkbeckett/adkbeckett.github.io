@@ -13,6 +13,12 @@ permalink: /research/
 
 ## Publications
 
+[\[arXiv:2410.01765\]](http://arxiv.org/abs/2410.01765)
+    **Killing superalgebras in 2 dimensions,** [*SIGMA* **21** (2025) 082](https://doi.org/10.3842/SIGMA.2025.082).
+
+[\[arXiv:2409.11306\]](http://arxiv.org/abs/2409.11306)
+    **Killing (super)algebras associated to connections on spinors,** [*SIGMA* **21** (2025) 081](https://doi.org/10.3842/SIGMA.2025.081).
+
 [\[arXiv:2105.05775\]](http://arxiv.org/abs/2105.05775)
     **Killing superalgebras for lorentzian five-manifolds,** [*JHEP*, **2021** (2021) 209](https://doi.org/10.1007/JHEP07(2021)209),
     with José Figueroa-O'Farrill.
@@ -22,11 +28,11 @@ permalink: /research/
 
 ## Preprints
 
-[\[arXiv:2410.01765\]](http://arxiv.org/abs/2410.01765)
-    **Killing superalgebras in 2 dimensions,** submitted to *SIGMA*.
+[\[arXiv:----.----\]]
+    **Killing (super)algebras for generalised spin manifolds,** *(in preparation)*.
 
-[\[arXiv:2409.11306\]](http://arxiv.org/abs/2409.11306)
-    **Killing (super)algebras associated to connections on spinors,** submitted to *SIGMA*.
+[\[arXiv:2511.03627\]](http://arxiv.org/abs/2511.03627)
+    **Notes on generalised spin structures**.
 
 [\[arXiv:2203.07405\]](http://arxiv.org/abs/2203.07405)
     **Symplectic Actions and Central Extensions,**
