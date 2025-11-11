@@ -17,4 +17,4 @@ All of my publications and preprints are listed on [the research page](research)
 I also have significant teaching experience, having taught on courses at all levels of university mathematics, from pre-university summer school to graduate courses, as well as some physics courses. I describe my teaching experience in more detail on [the teaching page](teaching).
 
 **I am currently searching for a postdoctoral research position.**
-[Click here to see my CV](files/cv.pdf) and [here for a research statement](files/research-statement.pdf).
+[Click here to see my CV](files/cv.pdf) (which includes my email address and other contact information) and [here for a research statement](files/research-statement.pdf).

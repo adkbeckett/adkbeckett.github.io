@@ -28,8 +28,8 @@ permalink: /research/
 
 ## Preprints
 
-[\[arXiv:----.----\]]
-    **Killing (super)algebras for generalised spin manifolds,** *(in preparation)*.
+[\[arXiv:2511.07246\]](https://arxiv.org/abs/2511.07246)
+    **Killing (super)algebras for generalised spin manifolds**.
 
 [\[arXiv:2511.03627\]](http://arxiv.org/abs/2511.03627)
     **Notes on generalised spin structures**.
